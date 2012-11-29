@@ -4,4 +4,5 @@ Panduan Instalasi
        download / copy
        double click
        etc
+	   ini readme
 
