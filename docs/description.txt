@@ -14,8 +14,3 @@ Design
    Behavioral Design
    Component Design
 
-Testing
-   Test Cases
-   Results
-   Summary
-   
