@@ -3,8 +3,11 @@ Panduan Instalasi
 	2. Setelah selesai download, klik dua kali
 	3. Aplikasi ini tanpa proses instalasi/pemasangan, langsung dapat dipakai
 	4. Nikmati aplikasinya
+
 Rekomendasi Perangkat Keras
-	- Intel Pentium IV
-	- Flash Player versi 9
+	- minimal Intel Pentium IV
 	- Memory minimal 256 MB
+
+Rekomendasi perangkat lunak untuk file .swf
+ 	- Flash Player minimal versi 9
 	
