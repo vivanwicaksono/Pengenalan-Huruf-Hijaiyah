@@ -1,8 +1,10 @@
 Panduan Instalasi
-   * minimum hardware/software requirements
-   * how to install
-       download / copy
-       double click
-       etc
-	   ini readme
-
+	1. Pertama download aplikasi di 
+	2. Setelah selesai download, klik dua kali
+	3. Aplikasi ini tanpa proses instalasi/pemasangan, langsung dapat dipakai
+	4. Nikmati aplikasinya
+Rekomendasi Perangkat Keras
+	- Intel Pentium IV
+	- Flash Player versi 9
+	- Memory minimal 256 MB
+	
