@@ -1,0 +1,21 @@
+Project Plan
+   Nama Anggota
+   Apa yang akan dibuat
+   Jadwal Kegiatan
+   Software Development Method
+
+Requirements & Analysis
+   Functional Requirements
+   non-functional Requirements
+   Analysis
+
+Design
+   Architectural Design
+   Behavioral Design
+   Component Design
+
+Testing
+   Test Cases
+   Results
+   Summary
+   
