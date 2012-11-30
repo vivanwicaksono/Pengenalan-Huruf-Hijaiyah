@@ -1,6 +1,6 @@
 APLIKASI PENGENALAN HURUF HIJAIYAH
 
-Media pengenalan huruf hiajaiyah interaktif yang diperuntukkan bagi anak-anak dengan rentang usia 3-5 tahun.
+Media pengenalan huruf hijaiyah interaktif yang diperuntukkan bagi anak-anak dengan rentang usia 3-5 tahun.
 Aplikasi ini dapat menampilkan cara pembacaan dari huruf hijaiyah dan harakatnya secara tertulis dan secara lisan.
 pengguna dalam aplikasi ini akan memilih salah satu dari huruf hijaiyah yang disediakan dalam aplikasi, kemudian pengguna memilih harakat yang ada, steelah selesai maka akan ditampilkan suara dari bacaan huruf tersebut dan keterangannya secara tertuis.
 Aplikasi ini juga menyediakan quiz sebagai sarana evaluasi kemampuan pengguna terhadap pengenalan huruf hiajaiyah.
