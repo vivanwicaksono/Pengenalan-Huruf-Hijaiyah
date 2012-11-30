@@ -13,3 +13,6 @@ Keterangan:
 2. Folder suara
 	- memuat seluruh suara yang di-import-kan ke dokumen .fla
 	- file suara berekstensi .mp3
+
+3. Link download.txt
+	- Memuat link download yang memuat berkas .fla
