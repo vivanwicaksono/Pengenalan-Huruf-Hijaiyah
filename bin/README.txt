@@ -5,9 +5,9 @@ Panduan Instalasi
 	4. Nikmati aplikasinya
 
 Rekomendasi Perangkat Keras
-	- minimal Intel Pentium IV
+	- Minimal Intel Pentium IV
 	- Memory minimal 256 MB
 
 Rekomendasi perangkat lunak untuk file .swf
- 	- Flash Player minimal versi 9
+ 	- Flash Player minimal versi 9.0
 	
