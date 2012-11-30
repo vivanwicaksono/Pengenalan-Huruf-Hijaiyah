@@ -7,7 +7,7 @@ Aplikasi ini juga menyediakan quiz sebagai sarana evaluasi kemampuan pengguna te
 Soal dalam quiz berupa keluaran suara yang kemudian pengguna menentukan tulisan dari suara yang dikeluarkan. Quiz dibagi menjadi tiga tingkat kemampuan, yakni mudah, menengah, dan sulit.
 
 URL DOWNLOAD APLIKASI
-
+https://www.dropbox.com/s/fue8fmyzwm93n84/Pengenalan-Huruf-Hijaiyah.zip
 
 PANDUAN INSTALASI
 
