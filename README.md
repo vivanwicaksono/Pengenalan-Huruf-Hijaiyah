@@ -7,7 +7,10 @@ Aplikasi ini juga menyediakan quiz sebagai sarana evaluasi kemampuan pengguna te
 Soal dalam quiz berupa keluaran suara yang kemudian pengguna menentukan tulisan dari suara yang dikeluarkan. Quiz dibagi menjadi 2 level, level 1 dan 2.
 
 URL DOWNLOAD APLIKASI
-https://www.dropbox.com/s/fue8fmyzwm93n84/Pengenalan-Huruf-Hijaiyah.zip
+1. Alamat URL 1
+https://github.com/VivanEkoWicaksono/Pengenalan-Huruf-Hijaiyah/blob/master/bin/Pengenalan-Huruf-Hijaiyah.exe
+2. Alamat URL 2
+https://github.com/VivanEkoWicaksono/Pengenalan-Huruf-Hijaiyah/blob/master/bin/Pengenalan-Huruf-Hijaiyah.swf
 
 PANDUAN INSTALASI
 
