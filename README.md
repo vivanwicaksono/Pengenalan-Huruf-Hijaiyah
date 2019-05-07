@@ -20,6 +20,3 @@ PANDUAN INSTALASI
 1. Download aplikasi pada alamat URL yang telah disediakan
 2. Double klik program
 3. Program dapat dijalankan
- 
-
-Contact Person : +6285746085667 (Indonesia)
